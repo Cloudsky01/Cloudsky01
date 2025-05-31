@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, curious one 👀
 
-<!--
-**Cloudsky01/Cloudsky01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that solve problems.  
+Sometimes they’re useful. Sometimes they’re just... experiments.  
+Always learning. Occasionally shipping.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 What I tinker with:
+- Mobility & logistics systems  
+- Real-time apps  
+- Interfaces that stay out of your way
+
+---
+
+### 🕳 You found me. Now what?
+- 🌐 [techwithpopo.vercel.app](https://techwithpopo.vercel.app)  
+- ✉️ [antoine.poellhuber01@gmail.com](mailto:antoine.poellhuber01@gmail.com)
+
+---
+
+_"Build slow. Ship sharp."_  
