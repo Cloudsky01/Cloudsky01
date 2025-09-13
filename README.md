@@ -1,22 +1,5 @@
-# Hello, curious one 👀
+# Hey, I’m Popo 👋
 
-I build things that solve problems.  
-Sometimes they’re useful. Sometimes they’re just... experiments.  
-Always learning. Occasionally shipping.
+I like building systems that solve real problems. Recently that’s meant working with Google Cloud and AWS, learning Go, and getting my hands dirty with DevOps to keep things running smoothly.
 
----
-
-### 🧪 What I tinker with:
-- Mobility & logistics systems  
-- Real-time apps  
-- Interfaces that stay out of your way
-
----
-
-### 🕳 You found me. Now what?
-- 🌐 [techwithpopo.vercel.app](https://techwithpopo.vercel.app)  
-- ✉️ [antoine.poellhuber01@gmail.com](mailto:antoine.poellhuber01@gmail.com)
-
----
-
-_"Build slow. Ship sharp."_  
+I also write about what I’m learning and building over on my Substack — experiments, notes, and the occasional deep dive ; check it out https://techpopsicle.substack.com/
